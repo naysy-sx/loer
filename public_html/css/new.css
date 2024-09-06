@@ -1,0 +1,71 @@
+.action_add {
+    width: 50px;
+    height: 60px;
+}
+
+#container {
+    width: 100%;
+    height: 400px;
+    /* min-height: 1000px; */
+    margin: 0;
+    padding: 0;
+}
+
+#container2 {
+    width: 100%;
+    height: 400px;
+    /* min-height: 1000px; */
+    margin: 0;
+    padding: 0;
+}
+
+#container3 {
+    width: 100%;
+    height: 400px;
+    /* min-height: 1000px; */
+    margin: 0;
+    padding: 0;
+}
+
+.index-container {
+
+}
+
+.anychart-credits-text,
+.anychart-credits-logo {
+    display: none !important;
+}
+
+#calendar {
+}
+
+.index-window a {
+    color: black;
+}
+
+.active {
+    color: black !important;
+}
+
+.h-400 {
+    height: 400px !important;
+    overflow: hidden;
+
+}
+tspan {
+    font-weight: 900;
+}
+
+.action_icons {
+    color: grey;
+    transition: .3s;
+}
+
+.action-area textarea.form-control{
+    min-height: 100px;
+}
+
+/*.action_icons:hover {*/
+/*    transition: .3s;*/
+/*    color: black;*/
+/*}*/
